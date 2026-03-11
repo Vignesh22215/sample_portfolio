@@ -1,0 +1,87 @@
+
+    .head{
+        background-color: black;
+        color: white;
+    
+    }
+    .project{
+        background-color: orange;
+        color: black;
+        border-radius: 5px; 
+        padding: 20px;
+        display: inline-block;
+    }
+    .interest{
+        background-color: blue;
+        color: black;
+        border-radius: 5px;
+        padding: 20px;
+        display: inline-block;
+    }
+    .contact{
+        color: white;
+        background-color: red;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-bottom: 5px;
+        padding-top: 5px;
+        color: black;
+        border:none;
+        display: inline-block;
+    }
+    .app{
+        background-color: black;
+        color: white;
+    }
+     .cont{
+        padding: 10px;
+        display: black;
+    }
+    .head{
+        background-color: black;
+        color: white;
+        padding: 10px;
+    }
+    .home{
+        color: white;
+        background-color: red;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-bottom: 5px;
+        padding-top: 5px;
+        color: black;
+        border:none;
+    }
+    .media{
+         background-color: black;
+        color: white;
+        padding: 10px;
+    }
+    .contact-form{
+        margin-top: 20px;
+    }
+    .contact-form__input,.contact-form__textarea,.contact-form__submit{
+        margin-top: 10px;
+    }
+    .contact-form__input{
+        padding: 10px;
+        border: none;
+        border-bottom: solid black 1px;
+
+    }
+    .contact-form__textarea{
+        padding: 10px;
+        border: none;
+        border-bottom: solid black 1px;
+
+    }
+    .contact-form__submit{
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+        background-color: orangered;
+        color: black;
+        border:none;
+    }
+
