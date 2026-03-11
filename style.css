@@ -1,87 +1,139 @@
+* {
+    padding: 0;
+    margin: 0;
+}
 
-    .head{
-        background-color: black;
-        color: white;
+.container {
+    padding: 10px;
+
+}
+
+.section1 {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    padding-left: 10px;
+    padding-left: 10px;
+}
+
+.role {
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.incontact {
     
-    }
-    .project{
-        background-color: orange;
-        color: black;
-        border-radius: 5px; 
-        padding: 20px;
-        display: inline-block;
-    }
-    .interest{
-        background-color: blue;
-        color: black;
-        border-radius: 5px;
-        padding: 20px;
-        display: inline-block;
-    }
-    .contact{
-        color: white;
-        background-color: red;
-        padding-left: 10px;
-        padding-right: 10px;
-        padding-bottom: 5px;
-        padding-top: 5px;
-        color: black;
-        border:none;
-        display: inline-block;
-    }
-    .app{
-        background-color: black;
-        color: white;
-    }
-     .cont{
-        padding: 10px;
-        display: black;
-    }
-    .head{
-        background-color: black;
-        color: white;
-        padding: 10px;
-    }
-    .home{
-        color: white;
-        background-color: red;
-        padding-left: 10px;
-        padding-right: 10px;
-        padding-bottom: 5px;
-        padding-top: 5px;
-        color: black;
-        border:none;
-    }
-    .media{
-         background-color: black;
-        color: white;
-        padding: 10px;
-    }
-    .contact-form{
-        margin-top: 20px;
-    }
-    .contact-form__input,.contact-form__textarea,.contact-form__submit{
-        margin-top: 10px;
-    }
-    .contact-form__input{
-        padding: 10px;
-        border: none;
-        border-bottom: solid black 1px;
+    margin-top: 5px;
+    background-color: orangered;
+    color: azure;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
 
-    }
-    .contact-form__textarea{
-        padding: 10px;
-        border: none;
-        border-bottom: solid black 1px;
 
-    }
-    .contact-form__submit{
-        padding-left: 20px;
-        padding-right: 20px;
-        padding-bottom: 10px;
-        padding-top: 10px;
-        background-color: orangered;
-        color: black;
-        border:none;
-    }
+}
 
+.sec0 {
+    margin-top: 10px;
+}
+
+.sec0 p {
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.sec3 {
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    padding-left: 10px;
+    padding-left: 10px;
+}
+
+.sec3 a {
+    color: skyblue;
+}
+
+.sec2 li,
+.sec1 li {
+    list-style: none;
+}
+
+.sec1 {
+    border-radius: 10px;
+    color: #000;
+    padding: 20px;
+    height: 100px;
+    display: inline-block;
+    background-color: blue;
+vertical-align: top;
+}
+
+.sec2 {
+    border-radius: 10px;
+    color: black;
+    padding: 20px;
+    height: 100px;
+    display: inline-block;
+    background-color: orangered;
+vertical-align: top;
+}
+.consec1{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    padding-left: 10px;
+    padding-left: 10px;
+}
+.consec2{
+    
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.conname,.conemail,.conmessage{
+    
+    margin-top: 10px;
+   
+    
+}
+.conname,.conemail{
+    border-style: none;
+    border-bottom: solid black 2px;
+}
+.conmessage{
+    border: solid black;
+}
+.consec3 {
+    margin-top: 10px;
+    margin-right: 10px;
+ 
+    background-color: black;
+    color: white;
+    padding: 20px;
+    padding-left: 10px;
+    padding-left: 10px;
+}
+.concheck{
+    background-color: orangered;
+    color: white;
+    width: 80px;
+    height: 30px;
+    border-style: none;
+    border-radius: 5px;
+}
+
+.home {
+    margin-top: 5px;
+    background-color: orangered;
+    color: azure;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+
+
+}
